@@ -2,12 +2,13 @@
 @import "config/colors";
 @import "modules/flash";
 @import "config/font-size";
-@import "groups/group";
 @import "font-awesome";
 @import "font-awesome-sprockets";
 @import "mixins/mixin";
 @import "mixins/vendor_prefix";
 @import "modules/side_bar";
+@import "groups/group";
 @import "modules/chat";
 @import "modules/user";
 @import "messages/messages.scss"
+
